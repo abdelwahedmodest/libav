@@ -1,0 +1,1 @@
+i want  to   declare  that   i have  many  bugs  when trying   to build  tha library  in my ubuntu operating  system  and   i  missed  avformat.h  file in the  library   when i used  to compile  and run my  source 
